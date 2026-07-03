@@ -37,4 +37,6 @@ Make sure you have the **Java Development Kit (JDK)** installed on your machine 
 
 ## 📸 Gameplay Preview
 
-![Number Guessing Game Demo](assets/gameplay-screenshot.png)
+**Number Guessing Game Demo**
+<p align="center">
+  <img src="Screenshot 2026-07-03 171234.png" width="75%" style="border-radius: 10px; vertical-align: middle; margin-right: 15px;" alt="Proof of Game Playing" />
