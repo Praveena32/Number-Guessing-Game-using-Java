@@ -16,7 +16,7 @@ public class NumberGuessingGame {
         int roundsPlayed = 0;
         boolean playAgain = true;
 
-        System.out.println("=== Welcome to the Number Guessing Game! ===\n");
+        System.out.println("\n=== Welcome to the Number Guessing Game! ===\n");
         System.out.println("I'm thinking of a number between " + minRange + " and " + maxRange + ".\n");
         System.out.println("You have " + maxAttempts + " attempts per round. Let's begin!\n");
 
